@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/Studies/Semester 3/CS-221 Coding Project-1/Xilinx Files/CP1/mult8bit.xst" -ofn "F:/Studies/Semester 3/CS-221 Coding Project-1/Xilinx Files/CP1/mult8bit.syr" 

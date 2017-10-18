@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "F:/Studies/Semester 3/CS-221 Coding Project-1/Xilinx Files/CP1/alu8bit_tb_isim_beh.exe" -prj "F:/Studies/Semester 3/CS-221 Coding Project-1/Xilinx Files/CP1/alu8bit_tb_beh.prj" "work.alu8bit_tb" "work.glbl" 
